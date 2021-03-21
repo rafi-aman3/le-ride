@@ -1,0 +1,19 @@
+.nav{
+    text-align: center;
+}
+
+.nav li {
+    display: inline;
+    margin-left: 50px;
+}
+
+.nav a {
+    text-decoration: none;
+    color: rgb(20, 19, 19);
+    font-weight: bold;
+}
+
+.title-container {
+    text-align: center;
+    font-size: 45px;
+}

@@ -1,0 +1,69 @@
+.login-body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.form{
+    position: relative;
+    width: 350px;
+    padding: 40px 40px 60px;
+    background: #ebf5fc;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.form h2 {
+    color: #32a3b1;
+    font-weight: 500;
+    letter-spacing: 4px;
+}
+
+.form .input{
+    text-align: left;
+    margin-top: 40px;
+
+}
+
+.form .input .inputBox{
+    margin-top: 20px;
+
+}
+
+.form .input .inputBox input{
+    width: 100%;
+    height: 50px;
+    background: #ebf5fc;
+    border: 1px solid gray;
+    outline: none;
+    border-radius: 40px;
+    padding: 5px 15px;
+    font-size: 18px;
+    color: #32a3b1;
+   
+}
+
+.login-last, .register{
+    display: flex;
+    justify-content: space-between;
+}
+
+.forget, .remember{
+    margin-top: 20px;
+    font-size: 14px;
+    color: #555;
+}
+
+.register p {
+    font-size: 14px;
+    color:indianred;
+}
+
+.btn {
+    width: 270px;
+    border-radius: 20px;
+    
+}
+
+
+
